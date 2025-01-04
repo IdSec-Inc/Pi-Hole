@@ -10,7 +10,7 @@
 
 # -----------------------------
 # Facebook
-0.0.0.0 star.c10r.facebook.com
+0.0.0.0 c10r.facebook.com
 
 ## Publicité
 0.0.0.0 proficio-inc.com # entrepreneuriat Québec
