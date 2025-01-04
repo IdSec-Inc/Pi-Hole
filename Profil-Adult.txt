@@ -5,11 +5,12 @@
 # -----------------------------
 
 # -----------------------------
-# Category 1
+# Test
 0.0.0.0 documentation.wazuh.com
 
 # -----------------------------
-# Category 2
+# Facebook
+0.0.0.0 proficio-inc.com # entrepreneuriat Québec
 
 
 # -----------------------------
