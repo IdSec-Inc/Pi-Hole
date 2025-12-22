@@ -14,6 +14,7 @@
 
 ## Publicité
 0.0.0.0 proficio-inc.com # entrepreneuriat Québec
+0.0.0.0 sentry.io # MacOS - Monitoring d'application
 
 
 # -----------------------------
