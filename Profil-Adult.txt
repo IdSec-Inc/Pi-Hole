@@ -5,20 +5,20 @@
 # -----------------------------
 
 # -----------------------------
-# Test
+# [Wazuh]
 0.0.0.0 documentation.wazuh.com
 
 # -----------------------------
-# Facebook
+# [Facebook]
 0.0.0.0 c10r.facebook.com
 
 ## Publicité
 0.0.0.0 proficio-inc.com # entrepreneuriat Québec
-### Sentry
+# [Sentry]
 0.0.0.0 sentry.io # Monitoring d'application
 0.0.0.0 reload.getsentry.net # Monitoring d'application
 
 
 # -----------------------------
-# Ad from X
+# [from X]
 0.0.0.0 topheadlinesnews.org # Fake news
